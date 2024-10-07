@@ -31,18 +31,24 @@ To run this project, you will need to have Python installed on your system.
 
     python <filename>.py
 
-Features
+## Features
 
     Generation of random keys composed of letters and numbers.
     Command-line interface to generate new keys or exit the program.
 
-Usage Example
+## Usage Example
 
 When you run the script, you will see a generated random key and the menu options:
-
+```
 Your random key is: a1b2c3d4e5
+
 Options:
 [1] Generate a new random key
 [2] Exit
 
 Choose the desired option to generate a new key or exit the program.
+```
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
